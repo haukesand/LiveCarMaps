@@ -25,7 +25,7 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
-    compile ('com.airbnb.android:lottie:2.2.5'){ exclude group: 'com.android.support' }
+    compile ('com.airbnb.android:lottie:2.2.0')/*{ exclude group: 'com.android.support' }*/
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.google.android.gms:play-services-maps:9.6.0'
 /*
